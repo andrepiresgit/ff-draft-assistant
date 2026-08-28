@@ -7,3 +7,8 @@ __pycache__/
 oauth2.json
 node_modules/
 dist/
+
+# Personal draft data - real keeper/trade/pick info, kept local only (repo is public)
+backend/keepers/*.json
+backend/draft_position/*.json
+backend/manual_picks/*.json
